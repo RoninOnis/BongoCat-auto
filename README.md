@@ -24,7 +24,7 @@
 
 ### 📂 Шаг 2: Открытие файла сборки
 1. Запустите `dnSpy.exe`.
-2. Перейдите в меню **File → Open**.
+2. Перейдите в меню **File → Open** / **Файл → Открыть**.
 3. Откройте файл по следующему пути:  
    `Steam\steamapps\common\BongoCat\BongoCat_Data\Managed\Assembly-CSharp.dll`
 
