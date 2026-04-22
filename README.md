@@ -4,7 +4,7 @@
 
 [![Скачать Zip](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/RoninOnis/BongoCat-auto/releases/tag/BongoCat_DLL_chest_v1.0)
 
-В архиве находятся 2 версии DLL: Chest только собирает сундуки в автоматическом режиме, Chest+Emote собирает сундуки в автоматическом режиме и воспроизводит выбранные вами эмоции при нажатии на кнопку "Пробел"
+В архиве находятся версия DLL Chest только собирает сундуки в автоматическом режиме
 
 Что необходимо сделать:
 1. Обновить и перезапустить игру, закрыть BongoCat
